@@ -23,4 +23,4 @@ This notebook is divided in the following way:
 9. Conclusion: the project is over, what have we learned?
 
 
-In order to correctly execute the notebook, follow each step sequentially, because each step depend on the previous one.
+In order to correctly execute the notebook, follow each step sequentially, because each step depends on the previous one.
